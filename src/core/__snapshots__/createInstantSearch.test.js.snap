@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createInstantSearch wraps InstantSearch 1`] = `
+Object {
+  "algoliaClient": Object {
+    "addAlgoliaAgent": [Function],
+  },
+  "children": undefined,
+  "createURL": undefined,
+  "indexName": "name",
+  "onSearchParameters": undefined,
+  "onSearchStateChange": undefined,
+  "resultsState": undefined,
+  "root": Object {
+    "Root": "div",
+  },
+  "searchParameters": undefined,
+  "searchState": undefined,
+}
+`;
