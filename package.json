@@ -1,6 +1,6 @@
 {
   "name": "react-instantsearch-meteor",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "description": "⚡ Lightning-fast search for React and React Native apps, by Algolia",
   "keywords": [
     "algolia",
@@ -18,11 +18,11 @@
     "url": "https://www.algolia.com"
   },
   "contributors": [
-  {
-    "name": "Steve Monsen",
-    "email": "smonsen@devwax.com",
-    "url": "https://github.com/devwax/"
-  }
+    {
+      "name": "Steve Monsen",
+      "email": "smonsen@devwax.com",
+      "url": "https://github.com/devwax/"
+    }
   ],
   "main": "index.js",
   "module": "es/index.js",
