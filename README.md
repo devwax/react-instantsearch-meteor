@@ -3,6 +3,10 @@
 # Meteor Fix
 This changes `algoliasearch` dependency in `./dom.js` to require `'algoliasearch/src/browser/builds/algoliasearch'` instead of `algoliasearch/lite` to fix [this issue](https://github.com/algolia/algoliasearch-client-javascript/issues/292#issuecomment-229651198).
 
+`npm i -S react-instantsearch-meteor`
+
+https://npmjs.org/packages/react-instantsearch-meteor
+
 ---
 
 This is the [React](https://facebook.github.io/react/) version of
